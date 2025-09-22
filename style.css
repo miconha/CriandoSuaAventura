@@ -1,6 +1,6 @@
 
 body {
-    background-color: #1D4221;
+    background-color: #E6E6FA;
     color: rgb(66, 127, 71);
     font-family: "Leida", sans-serif;
     display: flex;
@@ -11,7 +11,7 @@ body {
 }
 
 button {
-    background-color: #64A712;
+    background-color: #E6E6FA;
     color: rgb(66, 127, 71);
     font-family: "Leida", sans-serif;
 }
